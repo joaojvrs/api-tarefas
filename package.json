@@ -8,7 +8,7 @@
 },
 
   "scripts": {
-    "start":"node index mongodb+srv://joao226747:CLPxUPofiiSWzPxa@joao226747.zgoxkyz.mongodb.net/tarefasDB",
+    "start":"nodemon index mongodb+srv://joao226747:CLPxUPofiiSWzPxa@joao226747.zgoxkyz.mongodb.net/tarefasDB",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
